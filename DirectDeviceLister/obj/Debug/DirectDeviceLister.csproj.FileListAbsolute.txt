@@ -1,0 +1,15 @@
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\bin\Debug\DirectDeviceLister.exe.config
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\bin\Debug\DirectDeviceLister.exe
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\bin\Debug\DirectDeviceLister.pdb
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\bin\Debug\SharpDX.dll
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\bin\Debug\SharpDX.pdb
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\obj\Debug\DirectDeviceLister.csprojAssemblyReference.cache
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\obj\Debug\DirectDeviceLister.DirectDeviceListForm.resources
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\obj\Debug\DirectDeviceLister.Properties.Resources.resources
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\obj\Debug\DirectDeviceLister.csproj.GenerateResource.cache
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\obj\Debug\DirectDeviceLister.csproj.CopyComplete
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\obj\Debug\DirectDeviceLister.exe
+C:\Users\The_Beast\source\repos\DirectDeviceLister\DirectDeviceLister\obj\Debug\DirectDeviceLister.pdb
